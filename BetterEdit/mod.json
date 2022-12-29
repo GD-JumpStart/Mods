@@ -1,0 +1,12 @@
+{
+    "version": "4.0.5",
+    "name": "BetterEdit",
+    "author": "HJFod",
+    "author_link": "https://github.com/HJFod/",
+    "description": "A mod that makes the GD editor, well, Better.",
+    "repository": "https://github.com/HJfod/BetterEdit",
+    "megahack": 0,
+    "tags": [
+        "Utility", "Enhancements", "Developer", "Gameplay", "Editor"
+    ]
+}

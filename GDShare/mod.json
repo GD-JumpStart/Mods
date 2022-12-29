@@ -1,0 +1,12 @@
+{
+    "version": "0.3.4",
+    "name": "BetterEdit",
+    "author": "HJFod",
+    "author_link": "https://github.com/HJfod",
+    "description": "A mod for GD that adds buttons to export / import levels.",
+    "repository": "https://github.com/HJfod/GDShare-mod",
+    "megahack": 0,
+    "tags": [
+        "Utility", "Editor"
+    ]
+}
