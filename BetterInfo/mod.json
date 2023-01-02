@@ -1,0 +1,12 @@
+{
+    "version": "2.4.3",
+    "name": "BetterInfo",
+    "author": "Cvolton",
+    "author_link": "https://github.com/Cvolton/",
+    "description": "Improved info and other QOL features for Geometry Dash",
+    "repository": "https://github.com/Cvolton/best-epic-gd-mods/tree/betterinfo-v2.4.3",
+    "megahack": 0,
+    "tags": [
+        "Utility", "Enhancements"
+    ]
+}
